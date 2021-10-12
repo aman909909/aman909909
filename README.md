@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 🤔 &nbsp; A Full Stack Web Developer and Competitive Programmer, exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Bachelor of Technology at IIT BHU, Varanasi.
+- 💼 &nbsp; Former Software Engineering Intern as Cisco.
+- 💭 &nbsp; Diving deeper into the realm of web and android development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
